@@ -18,7 +18,7 @@ describe('Contact component', () => {
             <ContactForm></ContactForm>
         );
         expect(asFragment()).toMatchSnapshot();
-    })
+    });
 });
 
 describe('Contact form has "contact me" and "submit"', () => {
@@ -29,5 +29,5 @@ describe('Contact form has "contact me" and "submit"', () => {
 
         expect(getByTestId('h1tag')).toHaveTextContent('Contact me');
         expect(getByTestId('subbutton')).toHaveTextContent('Submit');
-    })
-})
+    });
+});
