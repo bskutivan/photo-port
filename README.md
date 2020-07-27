@@ -5,7 +5,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Deployed Site](#deployed_site)
+  * [Site](Site)
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
@@ -14,7 +14,7 @@
   You can clone the repo directly or download the files and run npm install to ensure the proper dependencies are engaged.
   ## Usage
   Please feel free to use any aspect of this project.
-  ## Deployed Site
+  ## Site
   https://bskutivan.github.io/photo-port/
   ## License
   This project is licensed under the MIT license.
